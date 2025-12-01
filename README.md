@@ -1,2 +1,2 @@
-# numC
-A standard calculus and linear algebra library for C++
+# mathematiCs
+A standard math Library (Calculus, Linear Alebra, Geometry, Number Theory, Radomness, etc.) for C++
